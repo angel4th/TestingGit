@@ -1,1 +1,2 @@
 line added on issue1
+new line added on hotfix
